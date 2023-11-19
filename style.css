@@ -1,0 +1,15 @@
+body {background-color: #8bc34a;}
+
+.box {
+    width: 350px;
+    height: 250px;
+    background-color: #334E1B;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+
+
+.p-btn {
+    font-size: 1rem;
+}
